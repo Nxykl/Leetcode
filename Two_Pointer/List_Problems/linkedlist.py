@@ -156,11 +156,11 @@ def remove_Node(head, n):
     return head
 
 
-head = takeinput()
-n = int(input())
-cp_head = remove_Node(head,n)
-fn_print(cp_head)
-
+#head = takeinput()
+#n = int(input())
+#cp_head = remove_Node(head,n)
+#fn_print(cp_head)
+#
 
 # m = int(input())
 # n = int(input())
